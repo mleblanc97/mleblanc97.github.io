@@ -308,8 +308,8 @@ a.download-button span {
 }
 
 footer {
-  margin-bottom: 60px;
-  padding-bottom: 60px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 footer .owner {
