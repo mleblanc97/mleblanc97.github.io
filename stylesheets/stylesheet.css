@@ -36,6 +36,7 @@ nav{
 	width:675px;
 	height:40px;
 	list-style-type:none;
+	margin-right: 0px;
 	margin: auto auto;
 	/*display:block;*/
 	background: #ddd url(../images/pattern.png);
