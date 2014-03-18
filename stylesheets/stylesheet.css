@@ -310,13 +310,14 @@ a.download-button span {
 footer {
   margin-bottom: 0px;
   padding-bottom: 0px;
+  text-align: center;
 }
 
 footer .owner {
   background: #222;
   border: 5px solid #444;
   padding: 5px 15px;
-  margin: -67px -10px 35px;
+  margin: /*-67*/0px /*-10*/0px /*35*/0px;
   color: #d6d6d6;
 }
 
