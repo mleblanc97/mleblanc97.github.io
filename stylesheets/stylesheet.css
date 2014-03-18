@@ -31,6 +31,53 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
+nav{
+	position:relative;
+	width:798px;
+	height:40px;
+	list-style-type:none;
+	margin: auto auto;
+	/*display:block;*/
+	background-color:#3498DB;
+	margin-top: 10px;
+	
+	}
+ a:visited, a:link{
+	display:block;
+	width:114px;
+	text-align:center;
+	color:#ECF0F1;
+	background-color:#3498DB;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:18px;
+	height:40px;
+	line-height:249%;
+	margin-top: 10px;
+	
+	}
+a:hover,a:active {
+	background-color:#2980B9;
+	}
+ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	/*overflow:none;*/
+	
+	/*position:relative;
+	display:block;
+	left:auto;
+	right:auto;*/
+	}
+ li {
+	float:left;
+	margin-top:-12px;
+	margin-right: 0px;
+	
+
+	
+		}
 ol, ul {
   list-style: none;
 }
