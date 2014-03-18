@@ -33,7 +33,7 @@ body {
 }
 nav{
 	position:relative;
-	width:798px;
+	width:675px;
 	height:40px;
 	list-style-type:none;
 	margin: auto auto;
@@ -44,7 +44,7 @@ nav{
 	}
  a:visited, a:link{
 	display:block;
-	width:114px;
+	width:225px;
 	text-align:center;
 	color:#ECF0F1;
 	background-color:#3498DB;
