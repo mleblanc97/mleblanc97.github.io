@@ -38,7 +38,7 @@ nav{
 	list-style-type:none;
 	margin: auto auto;
 	/*display:block;*/
-	background-color:#3498DB;
+	background: #ddd url(../images/pattern.png);
 	margin-top: 10px;
 	
 	}
@@ -47,7 +47,7 @@ nav{
 	width:225px;
 	text-align:center;
 	color:#ECF0F1;
-	background-color:#3498DB;
+	background: #ddd url(../images/pattern.png);
 	text-decoration:none;
 	text-transform:uppercase;
 	font-size:18px;
@@ -57,7 +57,7 @@ nav{
 	
 	}
 a:hover,a:active {
-	background-color:#2980B9;
+	background: #ddd url(../images/pattern.png);
 	}
 ul {
 	list-style-type:none;
