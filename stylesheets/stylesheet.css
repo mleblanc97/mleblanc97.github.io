@@ -31,6 +31,9 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
+p.spacing{
+	height: 100px;
+}
 nav{
 	position:relative;
 	width:675px;
