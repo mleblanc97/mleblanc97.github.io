@@ -5,7 +5,7 @@
 
 html, body, div, /*span,*/ applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-/*a,*/ abbr, acronym, address, big, cite, code,
+a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, tt, var,
 b, u, i, center,
@@ -48,6 +48,7 @@ a.tooltip:hover span {
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.5); -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
 	position: absolute; left: 1em; top: 1.5em; z-index: 99;
 	margin-left: 0; width: 300px;
+}
 body {
   line-height: 1;
 }
