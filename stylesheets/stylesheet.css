@@ -122,16 +122,16 @@ body {
   background: #D1D1D1;
 }
 
-a {
+/*a {
   color: #63a52a;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.3s;
-}
+}*/
 
-a:hover {
+/*a:hover {
   text-decoration: underline;
   color: #90D355;
-}
+}*/
 
 h1.title {
   margin: 30px 20px 10px;
