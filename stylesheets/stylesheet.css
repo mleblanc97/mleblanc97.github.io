@@ -32,6 +32,9 @@ a.def{
 	text-decoration:underline;
 	position:relative;
 }
+a.def span img{
+	height:48px;
+	width:48px;
 a.def span {
 	margin-left:-999em;
 	position: absolute;
