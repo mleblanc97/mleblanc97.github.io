@@ -137,13 +137,13 @@ body {
   background: #D1D1D1;
 }
 
- nav a {
+ ul a {
   color: #63a52a;
   text-decoration: none;
   -webkit-transition: color ease-in-out 0.3s;
-}*/
+}
 
-nav a:hover {
+ul a:hover {
   text-decoration: underline;
   color: #90D355;
 }
