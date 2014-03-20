@@ -28,6 +28,21 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
+a.tooltip{
+	text-decoration:underline;
+	position:relative;
+}
+a.tooltop span {
+	margin-left:-999em;
+	position: absolute;
+	background:white;
+	padding: 5px;
+}
+a.tooltip span em{
+	position:absolute;
+	color: #5FAB09;
+	font-size:1.5em;
+}
 body {
   line-height: 1;
 }
