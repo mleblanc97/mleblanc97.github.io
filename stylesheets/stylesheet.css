@@ -72,7 +72,9 @@ nav{
 	
 	}
 img{
-	position:center;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
  a:visited, a:link{
 	display:block;
