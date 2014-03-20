@@ -71,6 +71,9 @@ nav{
 	margin-top: 10px;
 	
 	}
+img{
+	position:center;
+}
  a:visited, a:link{
 	display:block;
 	width:225px;
