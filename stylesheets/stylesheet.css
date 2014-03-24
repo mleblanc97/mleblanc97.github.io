@@ -91,7 +91,7 @@ img{
 	
 	}
 a:hover,a:active {
-	background: #ddd url(../images/pattern.png);
+	/*background: #ddd url(../images/pattern.png);*/
 	}
 ul {
 	list-style-type:none;
