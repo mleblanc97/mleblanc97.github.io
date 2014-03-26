@@ -84,9 +84,9 @@ img{
 	margin-left:auto;
 	margin-right:auto;
 }
-img.left{width: 35%;
+img.left{width: 20%;
 }
-img.right{width: 65%;
+img.right{width: 45%;
 }
  a:visited, a:link{
 	display:block;
