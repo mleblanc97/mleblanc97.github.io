@@ -30,8 +30,9 @@ footer, header, hgroup, menu, nav, section {
 }
 ol  li{
 /*style:none;*/
-height:25px;
+/*height:25px;*/
 /*float:center;*/
+clear: both;
 }
 p.center{
 text-align:center;
