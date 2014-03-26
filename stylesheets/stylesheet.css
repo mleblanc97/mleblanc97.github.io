@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 ol  li{
 style:none;
 
-float:center;
+float:left;
 }
 p.center{
 text-align:center;
