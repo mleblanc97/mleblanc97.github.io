@@ -29,7 +29,7 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 ol  li{
-style:none;
+/*style:none;*/
 height:25px;
 /*float:center;*/
 }
