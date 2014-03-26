@@ -32,10 +32,10 @@ p.center{
 text-align:center;
 }
 img.left{
-float:left;
+float:center;
 }
 img.right{
-float:right;
+float:center;
 }
 
 p.caption{
