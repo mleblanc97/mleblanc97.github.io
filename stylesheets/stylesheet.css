@@ -32,7 +32,7 @@ p.center{
 text-align:center;
 }
 img.left{
-float:center;
+float:left;
 }
 img.right{
 float:center;
