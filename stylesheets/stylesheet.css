@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 ol  li{
 style:none;
-display:block;
+
 float:center;
 }
 p.center{
