@@ -32,8 +32,9 @@ p.center{
 text-align:center;
 }
 p.caption{
-font-size:10pt;
-text-align:center;
+	font-size:10pt;
+	text-align:center;
+	padding: 0 10px 10px ;
 }
 a.def{
 	text-decoration:underline;
