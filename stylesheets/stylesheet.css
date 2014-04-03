@@ -9,7 +9,11 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 del, dfn, /*em,  img,*/ ins, kbd, q, s, samp,
 small, strike, strong, sub, tt, var,
 b, u, i, center,
+<<<<<<< HEAD
 dl, dt, dd, /*ol, ul, li,*/\
+=======
+dl, dt, dd, ol, ul, li,
+>>>>>>> 217a822756c2a92594a9573c2060e5a05be66210
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
@@ -29,9 +33,10 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 ol  li{
-style:none;
-height:12px;
-float:center;
+/*style:none;*/
+/*height:25px;*/
+/*float:center;*/
+clear: both;
 }
 p.center{
 text-align:center;
