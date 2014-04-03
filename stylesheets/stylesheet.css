@@ -28,6 +28,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
+table{
+	border:none;
+};
+}
 ol  li{
 /*style:none;*/
 /*height:25px;*/
